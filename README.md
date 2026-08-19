@@ -82,9 +82,7 @@ I enjoy building practical projects and exploring new technologies in **AI, Mach
   <a href="https://muhammad-talha-port-folio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:talha.skg3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+ 
 </p>
 
 ---
