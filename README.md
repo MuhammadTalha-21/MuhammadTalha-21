@@ -21,30 +21,29 @@ I enjoy building practical projects and continuously exploring new technologies 
 ## 🚀 My Skills
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,kotlin,mysql,git,github,tensorflow,pytorch" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python" height="55" />
-<img src="https://skillicons.dev/icons?i=cpp" height="55" />
-<img src="https://skillicons.dev/icons?i=mysql" height="55" />
-<img src="https://skillicons.dev/icons?i=git" height="55" />
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
-<img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-
+<p align="center">
+  <b>HTML</b> •
+  <b>CSS</b> •
+  <b>Python</b> •
+  <b>C++</b> •
+  <b>Kotlin</b> •
+  <b>SQL</b> •
+  <b>Git</b> •
+  <b>GitHub</b> •
+  <b>TensorFlow</b> •
+  <b>PyTorch</b>
 </p>
 
 <p align="center">
 
-🐍 <b>Python</b>   •  
-🤖 <b>Artificial Intelligence</b>   •  
-📊 <b>Machine Learning</b>   •  
-🧠 <b>Deep Learning</b>
-
-<br>
-
-👁️ <b>YOLOv8</b>   •  
-🗄️ <b>SQL</b>   •  
-⚙️ <b>C++</b>   •  
-💻 <b>Computer Science</b>
+🤖 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
+📊 <b>Machine Learning</b> &nbsp; • &nbsp;
+🧠 <b>Deep Learning</b> &nbsp; • &nbsp;
+👁️ <b>Computer Vision</b> &nbsp; • &nbsp;
+🎯 <b>YOLOv8</b>
 
 </p>
 
@@ -52,15 +51,17 @@ I enjoy building practical projects and continuously exploring new technologies 
 
 ## 🧠 Areas I Work With
 
-* 🤖 Artificial Intelligence
-* 📊 Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* 🎯 YOLOv8 & Object Detection
-* 🐍 Python Development
-* 🗄️ SQL & Databases
-* ⚙️ C++ Programming
-* 💻 Software Development
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🎯 YOLOv8 & Object Detection
+- 🐍 Python Development
+- 🗄️ SQL & Databases
+- ⚙️ C++ Programming
+- 📱 Kotlin
+- 🌐 HTML & CSS
+- 💻 Software Development
 
 ---
 
@@ -75,96 +76,3 @@ YOLOv8
 Python
 SQL
 Software Development
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.instagram.com/m_talha_04">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
-
-  
-
-<a href="https://www.facebook.com/share/19J7MXYcV9/">
-<img src="https://skillicons.dev/icons?i=facebook" width="50"/>
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/muhammad-talha-m04d21">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-  
-
-<a href="https://muhammad-talha-port-folio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
-</a>
-
-  
-
-<a href="mailto:talha.skg3@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadtalha-21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadtalha-21&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadtalha-21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 My Portfolio
-
-<p align="center">
-
-<a href="https://muhammad-talha-port-folio.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-
-📧 <b>Email:</b> [talha.skg3@gmail.com](mailto:talha.skg3@gmail.com)
-
-<br>
-
-📱 <b>Phone:</b> +92 327 1947634
-
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
-
-<p align="center">
-  <i>Let's build something amazing with technology 🚀</i>
-</p>
