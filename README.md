@@ -89,35 +89,6 @@ I enjoy building practical projects and exploring new technologies in **AI, Mach
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadtalha-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammadtalha-21&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadtalha-21&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages">
-</p>
-
----
-
-## 🗣️ Languages
-
-<p align="center">
-  🇬🇧 <b>English</b> &nbsp; • &nbsp;
-  🇵🇰 <b>Urdu</b> &nbsp; • &nbsp;
-  🇵🇰 <b>Punjabi</b>
-</p>
-
----
 
 ## 📫 Contact Me
 
