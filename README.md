@@ -94,12 +94,11 @@ I enjoy building practical projects and exploring new technologies in **AI, Mach
 
 📧 <a href="mailto:talha.skg3@gmail.com"><b>Email</b></a>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-📱 <a href="tel:+923271947634"><b>Phone</b></a>
+📱 <a href="tel:+923271947634"><b>+92 327 1947634</b></a>
 &nbsp;&nbsp; • &nbsp;&nbsp;
 🌐 <a href="https://muhammad-talha-port-folio.vercel.app/"><b>Portfolio</b></a>
 
 </p>
-
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
